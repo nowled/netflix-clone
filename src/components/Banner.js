@@ -42,7 +42,7 @@ const Banner = () => {
         </h1>
         <div className='banner__buttons'>
           <button className='banner__button'>Play</button>
-          <button className='banner__button'>Great Vids</button>
+          <button className='banner__button'>Great Damn Movies</button>
         </div>
 
         <h1 className='banner__description'>
